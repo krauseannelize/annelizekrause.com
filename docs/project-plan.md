@@ -23,3 +23,83 @@ A professional portfolio website to showcase skills, projects, and personal bran
 - [ ] A recruiter can share the link with a client and it looks professional  
 
 ## 3. Scope
+
+- `Home` section with name, tagline, and introduction
+- `About` section with professional story and skills
+- `Portfolio` section with project cards (images and descriptions)
+- `Contact` section with a contact form (FormSpree)
+- Mobile-responsive design
+- Hosted on GitHub Pages with custom domain
+- Branding: use existing color palette, fonts and logo used for LinkedIn engagement
+
+## 4. Requirements
+
+### Functional: What the site does
+
+- Site acts as an in-depth resume, putting a face and personality to the work
+- Soft skills are as visible as technical skills throughout the content
+- Contact form sends submissions directly to Gmail
+- All professional contact points listed (LinkedIn, email, etc.)
+- Portfolio projects presented with visuals and descriptions accessible to non-technical audiences
+
+### Non-functional: How well the site does it
+
+- Responsive design across all devices (desktop, tablet, mobile)
+- Accessible design following EU accessibility standards, including colorblind-friendly color choices
+- Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
+- Page load under 3 seconds
+
+## 5. Tech Stack
+
+| Component | Choice | Why |
+|-----------|--------|-----|
+| Static site generator | Hugo | Fast builds, markdown content, no server needed |
+| Theme | Hugo Profile | Pre-built portfolio sections, contact form, blog, easy config |
+| Hosting | GitHub Pages | Free, reliable, integrates with repo |
+| CI/CD | GitHub Actions | Auto-deploys on push to main |
+| Domain registrar | Namecheap | annelizekrause.com |
+| Contact form | FormSpree | Free tier, no backend needed, built into theme |
+| Fonts | Barlow Bold (headings), TBD web-safe body font | Consistent branding across site and LinkedIn content |
+| Version control | Git/GitHub | Public repo |
+
+## 6. Site Structure
+
+### Home
+
+- Professional headshot, name, and tagline
+- Brief elevator pitch (who I am, what I do, why it matters)
+- CTA buttons ("View my work", "Get in touch")
+
+### About
+
+- Personal story: where I come from, what motivates me, what I love
+- Candid photos (personality, not just professional)
+- Skills and tools summary
+
+### Portfolio
+
+- Project cards with: title, description, image/screenshot, tags (tech used)
+- Each tag represents a skill or tool (e.g. Power BI, Excel, Python, SQL)
+- Tags will act as filters once there are enough projects to make filtering useful
+- Start with basic cards; interactive filtering is a future enhancement
+
+### Contact
+
+- Contact form (FormSpree) for quick, low-friction messages
+- Links to all relevant profiles: GitHub, LinkedIn, email
+- Central hub so visitors can reach out however they prefer
+
+---
+
+## Feature Creep
+
+A running list of ideas, improvements, and nice-to-haves. Nothing here is a priority. Items move into scope only when the current version is shipped.
+
+- SEO optimization
+- Short-form logo/icon for favicon and compact branding
+- Educational section with resources
+- Dedicated business email
+- Client billing and invoicing
+- Login and authentication
+- Blog section with regular content
+- E-commerce or payment processing
