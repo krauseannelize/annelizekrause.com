@@ -16,12 +16,12 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "I turn"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "manual processes into automated workflows"
+          - "raw data into something AI can trust"
+          - "what's happening into what's next"
+          - "analysis into stories anyone can act on"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
@@ -218,7 +218,7 @@ sections:
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+      email: krauseannelize@gmail.com
       autolink: true
     design:
       columns: '1'
@@ -234,7 +234,7 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
+        I'm currently looking for **Business** or **Operations Analyst** roles.
         
         Let's connect and discuss how I can help your team.
       button:
