@@ -22,7 +22,7 @@ A professional portfolio website to showcase skills, projects, and personal bran
 - [x] Site is mobile-friendly and loads in under 3 seconds (HugoBlox dev-portfolio is responsive by default; static site served via GitHub Pages CDN)  
 - [x] A recruiter can share the link with a client and it looks professional  
 
-**Version 1 status:** MVP shipped 2026-05-01. Five of six original success criteria met; the contact form criterion was deferred in favor of an email-autolink approach. See `docs/next-steps.md` for V2 work.
+**Version 1 status:** MVP shipped 2026-05-01. All success criteria addressed; the contact form was deferred in favor of an email-autolink approach (struck through above). See `docs/next-steps.md` for V2 work.
 
 ## 3. Scope
 
