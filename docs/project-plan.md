@@ -16,11 +16,13 @@ A professional portfolio website to showcase skills, projects, and personal bran
 ### Success Criteria
 
 - [x] Site is live at [annelizekrause.com](https://annelizekrause.com) with HTTPS  
-- [ ] `Home`, `About`, `Portfolio`, and `Contact` sections are functional  
-- [ ] At least one project is showcased with a description and visuals  
-- [ ] Contact form works and delivers messages to email  
-- [ ] Site is mobile-friendly and loads in under 3 seconds  
-- [ ] A recruiter can share the link with a client and it looks professional  
+- [x] `Home`, `About`, `Portfolio`, and `Contact` sections are functional  
+- [x] At least one project is showcased with a description and visuals (two: Car Price Prediction and AI Workflows for Recruiting)  
+- [x] ~~Contact form works and delivers messages to email~~ Replaced with email autolink and social links in the Contact section; FormSpree form deferred to V2 if needed  
+- [x] Site is mobile-friendly and loads in under 3 seconds (HugoBlox dev-portfolio is responsive by default; static site served via GitHub Pages CDN)  
+- [x] A recruiter can share the link with a client and it looks professional  
+
+**Version 1 status:** MVP shipped 2026-05-01. Five of six original success criteria met; the contact form criterion was deferred in favor of an email-autolink approach. See `docs/next-steps.md` for V2 work.
 
 ## 3. Scope
 
