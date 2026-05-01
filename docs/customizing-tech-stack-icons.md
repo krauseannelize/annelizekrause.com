@@ -1,47 +1,36 @@
 # Customizing Tech Stack Icons
 
-The Tech Stack section uses icons from [devicon](https://devicon.dev/) by default. Several tools in our stack are missing from devicon entirely, and one (BigQuery) is using a placeholder.
+The Tech Stack section uses icons from [devicon](https://devicon.dev/) by default, with custom SVGs filling the gaps for tools devicon doesn't cover.
 
-This guide explains how to add custom SVG icons for the missing or incorrect ones.
+This guide explains how the icon system works and how to add or replace icons.
 
 ## Current state
 
-| Tool | Current icon | Status |
+| Tool | Icon source | Notes |
 |---|---|---|
-| Python | `devicon/python` | Correct |
-| SQL | (none) | Devicon has no generic SQL icon. Currently text-only. |
-| R | `devicon/r` | Correct |
-| PostgreSQL | `devicon/postgresql` | Correct |
-| **BigQuery** | `devicon/googlecloud` | **Wrong.** Renders as Google Cloud logo. BigQuery has its own logo that should be used. |
-| Airtable | (none) | Devicon has no Airtable icon. Currently text-only. |
-| pandas | `devicon/pandas` | Correct |
-| NumPy | `devicon/numpy` | Correct |
-| scikit-learn | `devicon/scikitlearn` | Correct |
-| Tidyverse | `devicon/r` | Approximation. Tidyverse has its own logo (hex sticker). |
-| Tableau | (none) | Devicon has no Tableau icon. Currently text-only. |
-| Excel | (none) | Devicon has no Excel icon. Currently text-only. |
-| Google Sheets | (none) | Devicon has no Google Sheets icon. Currently text-only. |
-| Matplotlib | `devicon/matplotlib` | Correct |
-| Seaborn | (none) | Devicon has no Seaborn icon. Currently text-only. |
-| Plotly | `devicon/plotly` | Correct |
-| VS Code | `devicon/vscode` | Correct |
-| Google Colab | `devicon/googlecolab` | Correct |
-| Git | `devicon/git` | Correct |
-| GitHub | `devicon/github` | Correct |
-| Notion | `devicon/notion` | Correct |
+| Python | `devicon/python` | |
+| SQL | `custom/sql` | Generic SQL icon (no official SQL logo exists) |
+| R | `devicon/r` | |
+| PostgreSQL | `devicon/postgresql` | |
+| BigQuery | `custom/bigquery` | |
+| Airtable | `custom/airtable` | |
+| Excel | `custom/excel` | |
+| Google Sheets | `custom/google-sheets` | |
+| pandas | `devicon/pandas` | |
+| NumPy | `devicon/numpy` | |
+| scikit-learn | `devicon/scikitlearn` | |
+| Tidyverse | `custom/tidyverse` | Hex sticker from rstudio/hex-stickers |
+| Tableau | `custom/tableau` | |
+| Matplotlib | `devicon/matplotlib` | |
+| Seaborn | `custom/seaborn` | |
+| Plotly | `devicon/plotly` | |
+| VS Code | `devicon/vscode` | |
+| Google Colab | `devicon/googlecolab` | |
+| Git | `devicon/git` | |
+| GitHub | `devicon/github` | |
+| Notion | `devicon/notion` | |
 
-## Tools needing custom SVGs
-
-Eight tools currently render without icons or with the wrong icon:
-
-1. **SQL** (generic, no logo exists; could use a generic database icon)
-2. **BigQuery** (replace Google Cloud icon)
-3. **Airtable**
-4. **Tidyverse** (replace approximation)
-5. **Tableau**
-6. **Excel**
-7. **Google Sheets**
-8. **Seaborn**
+Custom SVGs live at `assets/media/icons/custom/<name>.svg`.
 
 ## How custom icons work
 

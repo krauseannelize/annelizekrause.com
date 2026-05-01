@@ -81,6 +81,7 @@ sections:
             - name: Python
               icon: devicon/python
             - name: SQL
+              icon: custom/sql
             - name: R
               icon: devicon/r
         - name: Data Sources
@@ -88,10 +89,13 @@ sections:
             - name: PostgreSQL
               icon: devicon/postgresql
             - name: BigQuery
-              icon: devicon/googlecloud
+              icon: custom/bigquery
             - name: Airtable
+              icon: custom/airtable
             - name: Excel
+              icon: custom/excel
             - name: Google Sheets
+              icon: custom/google-sheets
         - name: Data Analysis
           items:
             - name: pandas
@@ -101,13 +105,15 @@ sections:
             - name: scikit-learn
               icon: devicon/scikitlearn
             - name: Tidyverse
-              icon: devicon/r
+              icon: custom/tidyverse
         - name: Data Visualization
           items:
             - name: Tableau
+              icon: custom/tableau
             - name: Matplotlib
               icon: devicon/matplotlib
             - name: Seaborn
+              icon: custom/seaborn
             - name: Plotly
               icon: devicon/plotly
         - name: Tools & Workflow
