@@ -8,7 +8,6 @@ Nothing in this category right now. The public-facing surface is complete and ac
 
 ## Repo housekeeping (low visitor impact, worth doing)
 
-- [ ] **Replace `README.md`** — currently still the HugoBlox starter README. Should describe Annie's site briefly, link to the live URL, note the tech stack, and point to docs.
 - [ ] **Decide on `LICENSE.md`** — currently HugoBlox's MIT license. For a personal portfolio site, options: keep MIT, switch to a personal-portfolio license (e.g., "code MIT, content CC-BY-NC"), or remove entirely.
 - [ ] **Replace `.github/FUNDING.yml`** — currently links to HugoBlox sponsorship. Either remove or repoint to Annie's own funding source if one exists. Probably remove for now.
 - [ ] **Update `docs/project-plan.md`** — the Tech Stack section still says "Hugo Profile"; update to HugoBlox dev-portfolio. The Decisions Log, Milestones, and Risks sections were planned but never written.
