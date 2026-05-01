@@ -83,14 +83,16 @@ sections:
             - name: SQL
             - name: R
               icon: devicon/r
-        - name: Databases
+        - name: Data Sources
           items:
             - name: PostgreSQL
               icon: devicon/postgresql
             - name: BigQuery
               icon: devicon/googlecloud
             - name: Airtable
-        - name: Data & Analysis
+            - name: Excel
+            - name: Google Sheets
+        - name: Data Analysis
           items:
             - name: pandas
               icon: devicon/pandas
@@ -100,11 +102,9 @@ sections:
               icon: devicon/scikitlearn
             - name: Tidyverse
               icon: devicon/r
-        - name: Visualization & BI
+        - name: Data Visualization
           items:
             - name: Tableau
-            - name: Excel
-            - name: Google Sheets
             - name: Matplotlib
               icon: devicon/matplotlib
             - name: Seaborn
