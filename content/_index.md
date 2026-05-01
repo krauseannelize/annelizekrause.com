@@ -178,6 +178,36 @@ sections:
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
   
+  # Education Timeline
+  - block: resume-experience
+    id: education
+    content:
+      title: Education
+      date_format: Jan 2006
+      items:
+        - degree: AI Data Science Career Track
+          institution: Masterschool
+          date_start: '2025-05-01'
+          date_end: '2026-07-31'
+          summary: |2-
+            * 14-month program covering Python, SQL, Tableau, machine learning, NLP, and AI-integrated workflows
+            * Capstones in regression modeling and workflow automation; concludes with a 2-month hands-on internship
+        - degree: Bachelor of Laws (LLB)
+          institution: University of South Africa (UNISA)
+          date_start: '2002-01-31'
+          date_end: '2011-11-30'
+          summary: |2-
+            * Focused on commercially relevant subjects: Company Law, Banking and Tax Law, Competition and Intellectual Property, Labour Law, and Professional Ethics
+            * Built foundations in legal reasoning, regulatory analysis, and structured problem-solving that translate directly to analytical work in regulated environments
+    design:
+      columns: '1'
+      background:
+        color:
+          light: "#f5f5f5"
+          dark: "#08080c"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
+  
   # Contact Section
   - block: contact-info
     id: contact

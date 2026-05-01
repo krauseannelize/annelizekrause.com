@@ -35,17 +35,20 @@ interests:
   - Developer Experience
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: AI Data Science Career Track
+    institution: Masterschool
+    start: 2025-05-01
+    end: 2026-07-31
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+      14-month program covering Python, SQL, Tableau, machine learning, NLP, and AI-integrated workflows.
+      Capstones in regression modeling and workflow automation; concludes with a 2-month hands-on internship.
+  - degree: Bachelor of Laws (LLB)
+    institution: University of South Africa (UNISA)
+    start: 2002-01-31
+    end: 2011-11-30
+    summary: |
+      Focused on commercially relevant subjects: Company Law, Banking and Tax Law, Competition and Intellectual Property, Labour Law, and Professional Ethics.
+      Built foundations in legal reasoning, regulatory analysis, and structured problem-solving that translate directly to analytical work in regulated environments.
 
 experience:
   - role: Senior Software Engineer
