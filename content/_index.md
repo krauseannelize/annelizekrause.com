@@ -81,7 +81,6 @@ sections:
             - name: Python
               icon: devicon/python
             - name: SQL
-              icon: devicon/mysql
             - name: R
               icon: devicon/r
         - name: Databases
@@ -91,7 +90,6 @@ sections:
             - name: BigQuery
               icon: devicon/googlecloud
             - name: Airtable
-              icon: devicon/airtable
         - name: Data & Analysis
           items:
             - name: pandas
@@ -105,15 +103,11 @@ sections:
         - name: Visualization & BI
           items:
             - name: Tableau
-              icon: devicon/tableau
             - name: Excel
-              icon: devicon/microsoftexcel
             - name: Google Sheets
-              icon: devicon/googlesheets
             - name: Matplotlib
               icon: devicon/matplotlib
             - name: Seaborn
-              icon: devicon/seaborn
             - name: Plotly
               icon: devicon/plotly
         - name: Tools & Workflow
