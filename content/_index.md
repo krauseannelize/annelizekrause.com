@@ -74,48 +74,60 @@ sections:
     id: skills
     content:
       title: "Tech Stack"
-      subtitle: "Technologies I use to build things"
+      subtitle: "Tools I work with day to day"
       categories:
         - name: Languages
           items:
-            - name: TypeScript
-              icon: devicon/typescript
-            - name: JavaScript
-              icon: devicon/javascript
             - name: Python
               icon: devicon/python
-            - name: Go
-              icon: devicon/go
-        - name: Frontend
+            - name: SQL
+              icon: devicon/mysql
+            - name: R
+              icon: devicon/r
+        - name: Databases
           items:
-            - name: React
-              icon: devicon/react
-            - name: Next.js
-              icon: devicon/nextjs
-            - name: Tailwind CSS
-              icon: devicon/tailwindcss
-            - name: Alpine.js
-              icon: devicon/alpinejs
-        - name: Backend
-          items:
-            - name: Node.js
-              icon: devicon/nodejs
-            - name: Express
-              icon: devicon/express
             - name: PostgreSQL
               icon: devicon/postgresql
-            - name: Redis
-              icon: devicon/redis
-        - name: DevOps
+            - name: BigQuery
+              icon: devicon/googlecloud
+            - name: Airtable
+              icon: devicon/airtable
+        - name: Data & Analysis
           items:
-            - name: Docker
-              icon: devicon/docker
-            - name: AWS
-              icon: devicon/amazonwebservices
-            - name: GitHub Actions
-              icon: brands/github
-            - name: Vercel
-              icon: devicon/vercel
+            - name: pandas
+              icon: devicon/pandas
+            - name: NumPy
+              icon: devicon/numpy
+            - name: scikit-learn
+              icon: devicon/scikitlearn
+            - name: Tidyverse
+              icon: devicon/r
+        - name: Visualization & BI
+          items:
+            - name: Tableau
+              icon: devicon/tableau
+            - name: Excel
+              icon: devicon/microsoftexcel
+            - name: Google Sheets
+              icon: devicon/googlesheets
+            - name: Matplotlib
+              icon: devicon/matplotlib
+            - name: Seaborn
+              icon: devicon/seaborn
+            - name: Plotly
+              icon: devicon/plotly
+        - name: Tools & Workflow
+          items:
+            - name: VS Code
+              icon: devicon/vscode
+            - name: Google Colab
+              icon: devicon/googlecolab
+            - name: Git
+              icon: devicon/git
+            - name: GitHub
+              icon: devicon/github
+            - name: Notion
+              icon: devicon/notion
     design:
       style: grid
       show_levels: false
