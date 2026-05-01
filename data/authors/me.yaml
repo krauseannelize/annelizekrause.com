@@ -51,28 +51,28 @@ education:
       Built foundations in legal reasoning, regulatory analysis, and structured problem-solving that translate directly to analytical work in regulated environments.
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Career Break (Relocation & Professional Development)
+    org: Germany
+    start: 2019-02-01
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      Relocated to Germany and completed an integration course while proactively upskilling in data analytics with a focus on SQL, Python, and data visualization.
+  - role: Operations and Data Specialist (Freelance)
+    org: Independent / Remote
+    start: 2015-11-01
+    end: 2019-01-31
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
+      Managed $250K in inventory across seven marketplaces and five brands, coordinating 50+ product launches and delivering 50,000+ SKUs on time by aligning cross-functional teams.
+      Built a custom Access database for inventory forecasting, eliminating monthly subscription costs and improving stock accuracy across multiple sales channels.
+      Digitized 60,000+ historical transactions and 10,000 merchant records for academic research, resolving data inconsistencies and enabling robust analysis.
+      Streamlined customer support workflows by implementing reusable templates and centralized SOPs in Notion, reducing response times and improving onboarding and continuity across distributed teams.
+  - role: Services Assistant
+    org: Big 5 South African law firm, Cape Town
+    start: 2013-08-01
+    end: 2015-09-30
     summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Designed and implemented a custom access-card database to track card ownership and loss patterns across six office locations, enabling identification of repeat offenders and reducing lookup time for lost cards.
+      Automated a manual expense allocation process that previously involved more than five team members over five days each month, reducing administrative workload by 90% and improving accuracy in marketing spend reporting.
+      Maintained and updated internal personnel databases for over 1,000 employees, ensuring consistent records and smooth operational workflows.
 
 skills:
   - name: Development
