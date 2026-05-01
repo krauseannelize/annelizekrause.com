@@ -55,24 +55,25 @@ experience:
     org: Germany
     start: 2019-02-01
     summary: |
-      Relocated to Germany and completed an integration course while proactively upskilling in data analytics with a focus on SQL, Python, and data visualization.
+      * Relocated to Germany and completed an integration course
+      * Proactively upskilled in data analytics with a focus on SQL, Python, and data visualization
   - role: Operations and Data Specialist (Freelance)
     org: Independent / Remote
     start: 2015-11-01
     end: 2019-01-31
     summary: |
-      Managed $250K in inventory across seven marketplaces and five brands, coordinating 50+ product launches and delivering 50,000+ SKUs on time by aligning cross-functional teams.
-      Built a custom Access database for inventory forecasting, eliminating monthly subscription costs and improving stock accuracy across multiple sales channels.
-      Digitized 60,000+ historical transactions and 10,000 merchant records for academic research, resolving data inconsistencies and enabling robust analysis.
-      Streamlined customer support workflows by implementing reusable templates and centralized SOPs in Notion, reducing response times and improving onboarding and continuity across distributed teams.
+      * Managed $250K in inventory across seven marketplaces and five brands, coordinating 50+ product launches and delivering 50,000+ SKUs on time by aligning cross-functional teams
+      * Built a custom Access database for inventory forecasting, eliminating monthly subscription costs and improving stock accuracy across multiple sales channels
+      * Digitized 60,000+ historical transactions and 10,000 merchant records for academic research, resolving data inconsistencies and enabling robust analysis
+      * Streamlined customer support workflows by implementing reusable templates and centralized SOPs in Notion, reducing response times and improving onboarding and continuity across distributed teams
   - role: Services Assistant
     org: Big 5 South African law firm, Cape Town
     start: 2013-08-01
     end: 2015-09-30
     summary: |
-      Designed and implemented a custom access-card database to track card ownership and loss patterns across six office locations, enabling identification of repeat offenders and reducing lookup time for lost cards.
-      Automated a manual expense allocation process that previously involved more than five team members over five days each month, reducing administrative workload by 90% and improving accuracy in marketing spend reporting.
-      Maintained and updated internal personnel databases for over 1,000 employees, ensuring consistent records and smooth operational workflows.
+      * Designed and implemented a custom access-card database to track card ownership and loss patterns across six office locations, enabling identification of repeat offenders and reducing lookup time for lost cards
+      * Automated a manual expense allocation process that previously involved more than five team members over five days each month, reducing administrative workload by 90% and improving accuracy in marketing spend reporting
+      * Maintained and updated internal personnel databases for over 1,000 employees, ensuring consistent records and smooth operational workflows
 
 skills:
   - name: Development
