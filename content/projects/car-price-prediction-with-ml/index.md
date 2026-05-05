@@ -23,7 +23,7 @@ links:
     url: https://youtu.be/pPSpYYsdPdM
     label: Video Walkthrough
 featured: true
-status: "Shipped"
+status: "Masterschool"
 role: "Solo Project"
 ---
 

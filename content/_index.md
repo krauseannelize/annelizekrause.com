@@ -82,8 +82,6 @@ sections:
               icon: devicon/python
             - name: SQL
               icon: custom/sql
-            - name: R
-              icon: devicon/r
         - name: Data Sources
           items:
             - name: PostgreSQL
@@ -104,8 +102,6 @@ sections:
               icon: devicon/numpy
             - name: scikit-learn
               icon: devicon/scikitlearn
-            - name: Tidyverse
-              icon: custom/tidyverse
         - name: Data Visualization
           items:
             - name: Tableau
