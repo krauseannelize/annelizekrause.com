@@ -1,6 +1,6 @@
 ---
 title: "Disaster Tweet Classification"
-date: 2026-05-05
+date: 2026-02-27
 summary: "Binary classification pipeline that distinguishes real disaster tweets from casual ones, using TF-IDF features and machine learning baselines on a Kaggle dataset of 7,613 labelled tweets."
 tags:
   - NLP
