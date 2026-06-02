@@ -24,7 +24,7 @@ annelizekrause.com/
 │   └── authors/me.yaml        (data file) Bio, links, experience, education
 ├── data/                      Hugo data files (used by the theme)
 ├── docs/                      Project docs and how-to guides (see below)
-├── static/uploads/            Public assets: headshot, logos, resume.pdf
+├── static/uploads/            Public assets: headshot, logos, annelize-krause-resume.pdf
 ├── go.mod                     Hugo Module declarations
 ├── hugoblox.yaml              HugoBlox-specific config (deploy host, build version)
 └── package.json               Tailwind / Pagefind dependencies (used in CI)
