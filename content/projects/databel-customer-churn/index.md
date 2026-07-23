@@ -26,7 +26,9 @@ Under the hood it runs on modern Excel: dynamic array formulas (LET, SWITCH, FIL
 
 Watch the walkthrough:
 
-<video controls preload="metadata" style="width: 100%; border-radius: 6px;" poster="featured.png">
-  <source src="walkthrough.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="walkthrough.mp4">Download the walkthrough</a> instead.
-</video>
+<div style="display: flex; justify-content: center;">
+  <video controls preload="metadata" style="width: 100%; max-width: 360px; aspect-ratio: 9 / 16; border-radius: 10px;">
+    <source src="walkthrough.mp4" type="video/mp4">
+    Your browser does not support the video tag. <a href="walkthrough.mp4">Download the walkthrough</a> instead.
+  </video>
+</div>
