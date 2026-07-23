@@ -13,6 +13,9 @@ links:
   - type: github
     url: https://github.com/krauseannelize/project-excel-databel-customer-churn
     label: Code
+  - type: video
+    url: https://youtube.com/shorts/r6aLs53EUxs
+    label: Video Walkthrough
 featured: true
 status: "Personal Project"
 role: "Solo Project"
