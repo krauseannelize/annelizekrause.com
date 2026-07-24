@@ -7,15 +7,11 @@ name:
   family: Krause
 postnominals: []
 status:
-  icon: "📈"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Business & Operations Analyst
+  icon: "📈"  # Emoji shown on avatar badge
+role: Data Analyst
 email: krauseannelize@gmail.com
 bio: |
-  Business Analyst with 18+ years of experience in legal, operations, and tech. I help businesses perform better by optimizing workflows and turning messy data into something AI can actually use. Now wrapping up Masterschool's AI Data Science program with a hands-on internship for real-world work.
-
-affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  Data analyst with a commercial law degree, a hands-on operations background, and full-time data analytics training completed in 2026. I work AI-native, turning messy operational data into analysis-ready datasets and dashboards people actually use, with a compliance-aware lens few analysts bring.
 
 links:
   - icon: at-symbol
@@ -28,20 +24,19 @@ links:
   - icon: brands/youtube
     url: https://www.youtube.com/@annelizekrause
 
-interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
-
 education:
-  - degree: AI Data Science Career Track
+  - degree: Data Analytics (Advanced Data Science and AI)
     institution: Masterschool
-    start: 2025-05-01
-    end: 2026-07-31
+    start: 2025-04-01
+    end: 2026-07-07
     summary: |
-      14-month program covering Python, SQL, Tableau, machine learning, NLP, and AI-integrated workflows.
-      Capstones in regression modeling and workflow automation; concludes with a 2-month hands-on internship.
+      15 months full-time across the whole analytics stack: SQL (PostgreSQL, BigQuery), Python, Tableau, EDA, statistics, machine learning, model explainability (SHAP, LIME), NLP, computer vision, time series forecasting, and workflow automation (n8n), all on real-world datasets.
+  - degree: Google Data Analytics Professional Certificate
+    institution: Google (Coursera)
+    start: 2024-06-01
+    end: 2024-08-31
+    summary: |
+      Eight-course certificate covering the analytics workflow end to end: asking the right questions, preparing and cleaning data, analysis, visualisation, and R programming, completed during self-directed retraining.
   - degree: Bachelor of Laws (LLB)
     institution: University of South Africa (UNISA)
     start: 2002-01-31
@@ -51,53 +46,51 @@ education:
       Built foundations in legal reasoning, regulatory analysis, and structured problem-solving that translate directly to analytical work in regulated environments.
 
 experience:
-  - role: Career Break (Relocation & Professional Development)
+  - role: Data Analyst Intern
+    org: Researchpreneurs (Masterschool internship placement), Remote
+    start: 2026-05-01
+    end: 2026-07-05
+    summary: |
+      * I was brought in to collect new data, but noticed my team's existing data was inconsistent across file formats and was never going to answer their questions. So I built Python pipelines to scrape, clean and structure all of it, tested end to end, into a single SQL database where questions could be answered with a query.
+      * Past competitor analyses did not have a set structure I could replicate, so I researched the framework, built a custom Claude Code skill and dispatched agents to evaluate competitor websites on the same metrics. Any analyst after me can reuse the workflow for updated reports with fair, unbiased eyes.
+  - role: Career Break (Relocation & Data Analytics Retraining)
     org: Germany
     start: 2019-02-01
+    end: 2025-03-31
     summary: |
-      * Relocated to Germany and completed an integration course
-      * Proactively upskilled in data analytics with a focus on SQL, Python, and data visualization
-  - role: Operations and Data Specialist (Freelance)
-    org: Independent / Remote
+      * We moved to Germany in 2018, and my remote contracting wrapped up soon after. I learned German at the local VHS, completed the B1 integration course (2023), then retrained in data analytics: the Google Data Analytics certificate (2024), and full-time Masterschool training from April 2025.
+  - role: Operations and Data Specialist
+    org: Contractor · BigSpool Inc., Tilburg University researchers & others, Remote
     start: 2015-11-01
     end: 2019-01-31
     summary: |
-      * Managed $250K in inventory across seven marketplaces and five brands, coordinating 50+ product launches and delivering 50,000+ SKUs on time by aligning cross-functional teams
-      * Built a custom Access database for inventory forecasting, eliminating monthly subscription costs and improving stock accuracy across multiple sales channels
-      * Digitized 60,000+ historical transactions and 10,000 merchant records for academic research, resolving data inconsistencies and enabling robust analysis
-      * Streamlined customer support workflows by implementing reusable templates and centralized SOPs in Notion, reducing response times and improving onboarding and continuity across distributed teams
-  - role: Services Assistant
-    org: Big 5 South African law firm, Cape Town
-    start: 2013-08-01
+      * BigSpool wanted to know if the inventory forecasting report they bought monthly was any good, so I built my own database and report to understand how it should work to make an informed call. Mine replaced the subscription completely, and I used it to manage $250K of inventory across 7 marketplaces and 5 brands.
+      * Finance professors needed 300-year-old handwritten stock ledgers turned into data for research into the 1720 South Sea Bubble. Over 2 years I analysed ~18K photographs: delivering a standardised database of ~46K East India Company transactions with ~5K unique traders identified, then overhauling their Bank of England dataset with 20K+ transfer records and 11K+ unique traders identified.
+  - role: Commercial Secretary, then Services Assistant
+    org: ENSafrica (Africa's largest law firm), Johannesburg & Cape Town
+    start: 2012-07-01
     end: 2015-09-30
     summary: |
-      * Designed and implemented a custom access-card database to track card ownership and loss patterns across six office locations, enabling identification of repeat offenders and reducing lookup time for lost cards
-      * Automated a manual expense allocation process that previously involved more than five team members over five days each month, reducing administrative workload by 90% and improving accuracy in marketing spend reporting
-      * Maintained and updated internal personnel databases for over 1,000 employees, ensuring consistent records and smooth operational workflows
-
-skills:
-  - name: Development
-    items:
-      - label: TypeScript
-        level: 5
-      - label: React
-        level: 5
-      - label: Node.js
-        level: 5
-      - label: Python
-        level: 4
-  - name: DevOps
-    items:
-      - label: Docker
-        level: 4
-      - label: AWS
-        level: 4
-      - label: CI/CD
-        level: 5
+      * A manual monthly expense allocation tied up 5+ team members for days, so I worked out the patterns they were searching for and automated the process. The workload dropped 90% and the numbers came out more accurate than the manual pass ever managed.
+      * Access cards were going missing across 6 offices and nobody knew how many should be in inventory, so I built a database tracking ownership and loss patterns. Now we had a full accounting and could identify repeat offenders.
+      * Contract-style due-diligence reports were not bringing in business, so I redesigned the format into a visual product a client would actually want to read and coordinated the practice groups' contributions. The new format went into the pitch that won the mandate to revise a mining conglomerate's entire contract suite in line with the new Companies Act.
+  - role: Legal Secretary & Research Coordinator
+    org: Various South African law firms & University of Pretoria, Gauteng
+    start: 2001-09-01
+    end: 2012-06-30
+    summary: |
+      * A senior advocate working on commission went into contract negotiations blind, so I tracked his time, calculated his commissions and reported per-client fees and rate trends. He walked into negotiations informed, and correcting past calculation mistakes put money straight back in his pocket.
+      * I was handed a debt-collections department that hadn't been profitable in years, where interest ran on the *in duplum* rule: interest and costs may never exceed the outstanding capital. I studied the rule, built a spreadsheet that calculated it correctly, and defended my interpretation against senior attorneys, recovering money for clients and preventing endless debt for debtors. The department turned a profit within 6 months, and years later a court ruling confirmed my interpretation, with the rule itself codified into law.
 
 languages:
   - name: English
     level: 5
+    label: C2
+  - name: Afrikaans
+    level: 5
     label: Native
+  - name: German
+    level: 2
+    label: B1
 
 awards: []

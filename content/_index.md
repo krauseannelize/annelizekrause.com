@@ -88,8 +88,8 @@ sections:
               icon: devicon/postgresql
             - name: BigQuery
               icon: custom/bigquery
-            - name: Airtable
-              icon: custom/airtable
+            - name: DuckDB
+              icon: custom/duckdb
             - name: Excel
               icon: custom/excel
             - name: Google Sheets
@@ -104,6 +104,8 @@ sections:
               icon: devicon/scikitlearn
         - name: Data Visualization
           items:
+            - name: Power BI
+              icon: custom/powerbi
             - name: Tableau
               icon: custom/tableau
             - name: Matplotlib
@@ -112,6 +114,14 @@ sections:
               icon: custom/seaborn
             - name: Plotly
               icon: devicon/plotly
+        - name: Automation & AI
+          items:
+            - name: Claude Code
+              icon: custom/claude
+            - name: n8n
+              icon: custom/n8n
+            - name: pytest
+              icon: custom/pytest
         - name: Tools & Workflow
           items:
             - name: VS Code
