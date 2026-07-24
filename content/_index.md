@@ -49,17 +49,17 @@ sections:
     content:
       title: "Featured Projects"
       subtitle: "A selection of my recent work"
-      count: 0
+      count: 3
       filters:
         folders:
           - projects
       buttons: []
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
-      # archive:
-      #   enable: false  # Set to false to explicitly hide
-      #   text: "Browse All"  # Customize text
-      #   link: "/work/"  # Custom URL
+      archive:
+        enable: true
+        text: "Browse All Projects"
+        link: "/projects/"
     design:
       columns: 3
       background:
