@@ -164,10 +164,9 @@ sections:
     id: contact
     content:
       title: Get In Touch
-      subtitle: "Let's build something amazing together"
+      subtitle: "The inbox is open"
       text: |-
-        I'm always interested in hearing about new projects and opportunities.
-        Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
+        Hiring, collaborating, or curious about something I built? Reach out.
       email: krauseannelize@gmail.com
       autolink: true
     design:
@@ -184,9 +183,9 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **Business** or **Operations Analyst** roles.
+        I'm looking for **Data Analyst** roles, working remotely from Germany.
         
-        Let's connect and discuss how I can help your team.
+        If you have messy data and unanswered questions, let's talk.
       button:
         text: 'Download Resume'
         url: uploads/annelize-krause-resume.pdf

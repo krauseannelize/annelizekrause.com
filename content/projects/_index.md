@@ -7,8 +7,9 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: Selected work from my portfolio.
+      title: All Projects
+      text: The full portfolio, newest first.
+      count: 0
       filters:
         folders:
           - projects
