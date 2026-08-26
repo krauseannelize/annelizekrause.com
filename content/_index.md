@@ -185,6 +185,8 @@ sections:
       text: |-
         I'm looking for **Data Analyst** roles, working remotely from Germany.
         
+        My German residence permit carries unrestricted work authorisation, so no visa sponsorship is needed. Employers can hire me directly or through any Employer of Record.
+        
         If you have messy data and unanswered questions, let's talk.
       button:
         text: 'Download Resume'
