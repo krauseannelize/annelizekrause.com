@@ -74,3 +74,6 @@ npm-debug.log*
 
 # Claude Code preview config
 .claude/
+
+# npm lockfile from local builds (repo uses pnpm-lock.yaml)
+package-lock.json
