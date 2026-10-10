@@ -31,6 +31,7 @@ This guide explains how the icon system works and how to add or replace icons.
 | Notion | `devicon/notion` | |
 | Trello | `devicon/trello` | |
 | Miro | `custom/miro` | Simple Icons Miro mark on Miro's yellow tile (#FFD02F) |
+| Slack | `devicon/slack` | |
 | Microsoft Access | `custom/microsoft-access` | Colour SVG supplied by Annie |
 | Salesforce | `devicon/salesforce` | |
 | Amazon Seller Central | `brands/amazon` | Monochrome, follows light/dark text colour |

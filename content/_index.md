@@ -138,6 +138,10 @@ sections:
               icon: devicon/trello
             - name: Miro
               icon: custom/miro
+            - name: Airtable
+              icon: custom/airtable
+            - name: Slack
+              icon: devicon/slack
         - name: Business Systems
           items:
             - name: Microsoft Access
