@@ -39,6 +39,12 @@ education:
     end: 2024-08-31
     summary: |
       Eight-course certificate covering the analytics workflow end to end: asking the right questions, preparing and cleaning data, analysis, visualisation, and R programming, completed during self-directed retraining.
+  - degree: Salesforce Certified Platform Foundations
+    institution: Salesforce
+    start: 2024-01-01
+    end: 2024-02-05
+    summary: |
+      Entry-level certification on the Salesforce platform: the CRM data model, objects and records, reports and dashboards, and how sales and service teams work in the system, completed during self-directed retraining.
   - degree: Bachelor of Laws (LLB)
     institution: University of South Africa (UNISA)
     start: 2002-01-31

@@ -29,6 +29,12 @@ This guide explains how the icon system works and how to add or replace icons.
 | Git | `devicon/git` | |
 | GitHub | `devicon/github` | |
 | Notion | `devicon/notion` | |
+| Trello | `devicon/trello` | |
+| Miro | `custom/miro` | Simple Icons Miro mark on Miro's yellow tile (#FFD02F) |
+| Microsoft Access | `custom/microsoft-access` | Colour SVG supplied by Annie |
+| Salesforce | `devicon/salesforce` | |
+| Amazon Seller Central | `brands/amazon` | Monochrome, follows light/dark text colour |
+| Elite 3E | `custom/elite-3e` | Raster logo (800px JPEG) embedded in an SVG wrapper with rounded corners; no vector logo available |
 
 Custom SVGs live at `assets/media/icons/custom/<name>.svg`.
 

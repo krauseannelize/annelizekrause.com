@@ -134,6 +134,20 @@ sections:
               icon: devicon/github
             - name: Notion
               icon: devicon/notion
+            - name: Trello
+              icon: devicon/trello
+            - name: Miro
+              icon: custom/miro
+        - name: Business Systems
+          items:
+            - name: Microsoft Access
+              icon: custom/microsoft-access
+            - name: Salesforce
+              icon: devicon/salesforce
+            - name: Amazon Seller Central
+              icon: brands/amazon
+            - name: Elite 3E
+              icon: custom/elite-3e
     design:
       style: grid
       show_levels: false
