@@ -183,7 +183,7 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm looking for **Data Analyst** roles, working remotely from Germany.
+        I'm looking for **data and operations** roles, remote or in the Braunschweig-Wolfsburg-Magdeburg area.
         
         My German residence permit carries unrestricted work authorisation, so no visa sponsorship is needed. Employers can hire me directly or through any Employer of Record.
         
