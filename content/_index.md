@@ -188,10 +188,13 @@ sections:
         My German residence permit carries unrestricted work authorisation, so no visa sponsorship is needed. Employers can hire me directly or through any Employer of Record.
         
         If you have messy data and unanswered questions, let's talk.
-      button:
-        text: 'Download Resume'
-        url: uploads/annelize-krause-resume.pdf
-        new_tab: true
+      buttons:
+        - text: 'Resume (English)'
+          url: uploads/annelize-krause-resume.pdf
+          new_tab: true
+        - text: 'Lebenslauf (Deutsch)'
+          url: uploads/annelize-krause-lebenslauf.pdf
+          new_tab: true
     design:
       card:
         # Light mode: soft pastel theme gradient | Dark mode: rich deep gradient
