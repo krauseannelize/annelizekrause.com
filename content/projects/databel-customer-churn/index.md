@@ -25,7 +25,7 @@ Databel is a fictional US telecom from DataCamp's case study "Analyzing Customer
 
 The numbers tell a specific story. Of 6,687 customers, 1,796 churned. Nearly half of them (44.82%) left for a competitor, with customer-service attitude a distant second at 15.98%. Churn climbs past 40% for customers aged 79 to 88, concentrates in short-tenure accounts, and spikes geographically: California churns at 63.24%, wildly out of line with every other state. Each of those findings is one click deep in the dashboard, with dynamic filtering and an interactive state map doing the work a static report can't.
 
-Under the hood it runs on modern Excel: dynamic array formulas (LET, SWITCH, FILTER, PIVOTBY) instead of hidden helper columns, so the whole pipeline from raw data to dashboard stays inspectable in one workbook. The full transformation from raw export to final dashboard is documented step by step in the repository's changelog.
+Under the hood it runs on modern Excel: dynamic array formulas (LET, SWITCH, FILTER, PIVOTBY), so the whole pipeline from raw data to dashboard stays inspectable in one workbook. The full transformation from raw export to final dashboard is documented step by step in the repository's changelog.
 
 Watch the walkthrough:
 
